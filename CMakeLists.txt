@@ -83,6 +83,7 @@ SaveRobotStateToWarehouse.srv
 ListRobotStatesInWarehouse.srv
 GetRobotStateFromWarehouse.srv
 CheckIfRobotStateExistsInWarehouse.srv
+RemovePrimitivesFromOctomap.srv
 RenameRobotStateInWarehouse.srv
 DeleteRobotStateFromWarehouse.srv
 ChangeControlDimensions.srv
